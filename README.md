@@ -1,7 +1,5 @@
 # NYC_Taxi_Analysis_ETL
 
-# NYC Taxi Analysis
-
 ## Goal of the Project:
 
 ### Analyze the peak times for taxi that will help drivers to maximize their income
