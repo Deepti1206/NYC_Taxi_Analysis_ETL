@@ -7,6 +7,6 @@ Undertand different factors that influence taking taxis like weather conditions,
 
 I will import total 3 files for our analysis for the year 2022
 
-##### 1. NYC TLC Dataset
-##### 2. Taxi Zone Dataset
-##### 3. NYC Weather report 
+1. NYC TLC Dataset
+2. Taxi Zone Dataset
+3. NYC Weather report 
