@@ -1,4 +1,6 @@
-# NYC_Taxi_Analysis_ETL
+# NYC Taxi Analysis using ETL pipeline
+
+<img src="https://media.timeout.com/images/105785000/1372/772/image.webp" width="700" height="450">
 
 ## Goal of the Project:
 
@@ -12,6 +14,8 @@ We will use total 3 files for our analysis for the year 2022
 3. NYC Weather report 
 
 ## NYC TLC Dataset
+
+
 
 
 
